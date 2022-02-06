@@ -15,10 +15,13 @@ This is doom emacs theme based on [[https://github.com/mangeshrex/uwu.vim][UwU C
 What you need to use this theme:
 - Emacs
   debian and its derivatives: =sudo apt install emacs= to install emacs
+
   Arch linux and derivatives: =sudo pacman -S emacs= to install emacs
+
   Fedora and its derivatives: =sudo dnf install emacs= to install emacs
 
 - Doom emacs
+
   head over their [[https://github.com/hlissner/doom-emacs][repository]] to install doom emacs
 
 * Installation
