@@ -1,7 +1,7 @@
 #+TITLE: Doom Emacs UwU
 #+AUTHOR: SamuelNihBos <samuelnihbos@disroot.org>
 
-[assets/ss.png]
+[[assets/ss.png]]
 
 * Table Of Contents :toc:
 - [[#about][About]]
