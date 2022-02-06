@@ -1,0 +1,27 @@
+#+TITLE: Doom Emacs UwU
+#+AUTHOR: SamuelNihBos <samuelnihbos@disroot.org>
+
+[assets/ss.png]
+
+* Table Of Contents :toc:
+- [[#about][About]]
+- [[#prerequisites][Prerequisites]]
+- [[#installation][Installation]]
+
+* About
+This is doom emacs theme based on [[https://github.com/mangeshrex/uwu.vim][UwU Colorscheme]]. This theme is intended to be a beautiful and dark theme for everyone!
+
+* Prerequisites
+What you need to use this theme:
+- Emacs
+  debian and its derivatives: =sudo apt install emacs= to install emacs
+  Arch linux and derivatives: =sudo pacman -S emacs= to install emacs
+  Fedora and its derivatives: =sudo dnf install emacs= to install emacs
+
+- Doom emacs
+  head over their [[https://github.com/hlissner/doom-emacs][repository]] to install doom emacs
+
+* Installation
+1. Copy uwu-theme.el to your ~/.doom.d folder
+2. Edit your config.el file. Find =(setq doom-theme )= sections, and change whatever theme name there to =uwu=
+3. Restart your emacs, no need to run doom sync to get the themes applied
