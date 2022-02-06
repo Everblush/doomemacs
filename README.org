@@ -14,7 +14,8 @@ This is doom emacs theme based on [[https://github.com/mangeshrex/uwu.vim][UwU C
 * Prerequisites
 What you need to use this theme:
 - Emacs
-  debian and its derivatives: =sudo apt install emacs= to install emacs
+
+  Debian and its derivatives: =sudo apt install emacs= to install emacs
 
   Arch linux and derivatives: =sudo pacman -S emacs= to install emacs
 
