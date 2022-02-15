@@ -9,7 +9,7 @@
 - [[#installation][Installation]]
 
 * About
-This is doom emacs theme based on [[https://github.com/mangeshrex/uwu.vim][UwU Colorscheme]]. This theme is intended to be a beautiful and dark theme for everyone!
+This is doom emacs theme based on [[https://github.com/mangeshrex/uwu.vim][UwU Colorscheme (now EverBlush)]]. This theme is intended to be a beautiful and dark theme for everyone!
 
 * Prerequisites
 What you need to use this theme:
@@ -27,5 +27,5 @@ What you need to use this theme:
 
 * Installation
 1. Copy uwu-theme.el to your ~/.doom.d folder
-2. Edit your config.el file. Find =(setq doom-theme )= sections, and change whatever theme name there to =uwu=
+2. Edit your config.el file. Find =(setq doom-theme )= sections, and change whatever theme name there to =everblush=
 3. Restart your emacs, no need to run doom sync to get the themes applied
