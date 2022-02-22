@@ -68,8 +68,8 @@ Can be an integer to determine the exact padding."
    (dark-blue  '("#67b0e8" "#67b0e8" "blue"         ))
    (magenta    '("#c47fd5" "#c47fd5" "brightmagenta"))
    (violet     '("#bab3e5" "#bab3e5" "magenta"      ))
-   (cyan       '("#77aed7" "#77aed7" "brightcyan"   ))
-   (dark-cyan  '("#6da4cd" "#51a39f" "cyan"         ))
+   (cyan       '("#67cbe7" "#67cbe7" "brightcyan"   ))
+   (dark-cyan  '("#6da4cd" "#6da4cd" "cyan"         ))
 
    ;; These are the "universal syntax classes" that doom-themes establishes.
    ;; These *must* be included in every doom themes, or your theme will throw an
