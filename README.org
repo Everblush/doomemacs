@@ -1,4 +1,4 @@
-#+TITLE: Doom Emacs UwU
+#+TITLE: Doom Emacs Everblush
 #+AUTHOR: SamuelNihBos <samuelnihbos@disroot.org>
 
 [[assets/ss.png]]
@@ -26,6 +26,6 @@ What you need to use this theme:
   head over their [[https://github.com/hlissner/doom-emacs][repository]] to install doom emacs
 
 * Installation
-1. Copy uwu-theme.el to your ~/.doom.d folder
+1. Copy Everblush-theme.el to your ~/.doom.d folder
 2. Edit your config.el file. Find =(setq doom-theme )= sections, and change whatever theme name there to =everblush=
 3. Restart your emacs, no need to run doom sync to get the themes applied
