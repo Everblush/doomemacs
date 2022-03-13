@@ -9,7 +9,7 @@
 - [[#installation][Installation]]
 
 * About
-This is doom emacs theme based on [[https://github.com/mangeshrex/everblush.vim][Everblush colorscheme]]. This theme is intended to be a beautiful and dark theme for everyone!
+This is doom emacs theme based on [[https://github.com/Everblush/everblush.vim][Everblush colorscheme]]. This theme is intended to be a beautiful and dark theme for everyone!
 
 * Prerequisites
 What you need to use this theme:
