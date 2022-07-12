@@ -35,41 +35,41 @@ Can be an integer to determine the exact padding."
   "A beautiful and dark vim colorscheme ported to doom emacs."
 
   ;; name        default   256           16
-  ((bg         '("#181f21" "#181f21"      nil  )) ;
+  ((bg         '("#141b1e" "#141b1e"      nil  )) ;
    (fg         '("#dadada" "#dadada"    "brightwhite"  )) ;
 
    ;; These are off-color variants of bg/fg, used primarily for `solaire-mode',
    ;; but can also be useful as a basis for subtle highlights (e.g. for hl-line
    ;; or region), especially when paired with the `doom-darken', `doom-lighten',
    ;; and `doom-blend' helper functions.
-   (bg-alt     '("#181f21" "#181f21"     nil        )) ;
+   (bg-alt     '("#141b1e" "#141b1e"     nil        )) ;
    (fg-alt     '("#dadada" "#dadada"    "white"        )) ;
 
    ;; These should represent a spectrum from bg to fg, where base0 is a starker
    ;; bg and base8 is a starker fg. For example, if bg is light grey and fg is
    ;; dark grey, base0 should be white and base8 should be black.
-   (base0      '("#181f21" "#181f21"     "black"        )) ;
-   (base1      '("#b3b9b8" "#b3b9b8"     "brightblack"  )) ;
-   (base2      '("#b3b9b8" "#b3b9b8"     "brightblack"  )) ;
-   (base3      '("#22292b" "#22292b"     "brightblack"  )) ;
+   (base0      '("#141b1e" "#141b1e"     "black"        )) ;
+   (base1      '("#232a2d" "#232a2d"     "brightblack"  )) ;
+   (base2      '("#232a2d" "#232a2d"     "brightblack"  )) ;
+   (base3      '("#2d3437" "#2d3437"     "brightblack"  )) ;
    (base4      '("#363d3f" "#363d3f"     "brightblack"  )) ;
    (base5      '("#363d3f" "#363d3f"     "brightblack"  )) ;
-   (base6      '("#22292b" "#22292b"     "brightblack"  )) ;
-   (base7      '("#22292b" "#22292b"     "brightblack"  )) ;
+   (base6      '("#2d3437" "#2d3437"     "brightblack"  )) ;
+   (base7      '("#2d3437" "#2d3437"     "brightblack"  )) ;
    (base8      '("#bcd3c2" "#bcd3c2"     "white"        )) ;
 
    (grey       base4)
-   (red        '("#e06e6e" "#e06e6e" "red"          ))
-   (orange     '("#ef7d7d" "#ef7d7d" "brightred"    ))
+   (red        '("#e57474" "#e57474" "red"          ))
+   (orange     '("#ef7e7e" "#ef7e7e" "brightred"    ))
    (green      '("#8ccf7e" "#8ccf7e" "green"        ))
-   (teal       '("#8ad8ef" "#8ad8ef" "brightgreen"  ))
-   (yellow     '("#d8b25b" "#d8d25b" "yellow"       ))
-   (blue       '("#6cb5ed" "#6cb5eb" "brightblue"   ))
+   (teal       '("#96d988" "#96d988" "brightgreen"  ))
+   (yellow     '("#e5c76b" "#e5c76b" "yellow"       ))
+   (blue       '("#71baf2" "#71baf2" "brightblue"   ))
    (dark-blue  '("#67b0e8" "#67b0e8" "blue"         ))
-   (magenta    '("#c47fd5" "#c47fd5" "brightmagenta"))
-   (violet     '("#bab3e5" "#bab3e5" "magenta"      ))
+   (magenta    '("#ce89df" "#ce89df" "brightmagenta"))
+   (violet     '("#c47fd5" "#c47fd5" "magenta"      ))
    (cyan       '("#67cbe7" "#67cbe7" "brightcyan"   ))
-   (dark-cyan  '("#6da4cd" "#6da4cd" "cyan"         ))
+   (dark-cyan  '("#6cbfbf" "#6cbfbf" "cyan"         ))
 
    ;; These are the "universal syntax classes" that doom-themes establishes.
    ;; These *must* be included in every doom themes, or your theme will throw an
