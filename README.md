@@ -3,7 +3,7 @@
 ## Preview
 
 ![img](./assets/img2.png)
-
+![img](./assets/img1.png)
 ## Installation
 
 make sure you have themes folder inside your ~/.doom.d, then run this command
