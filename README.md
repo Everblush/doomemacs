@@ -2,7 +2,7 @@
 
 ## Preview
 
-![img](assets/ss.png)
+![img](./assets/img2.png)
 
 ## Installation
 
